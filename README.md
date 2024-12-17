@@ -1,1 +1,1 @@
-# About-me
+I am an experienced and results-driven Data Analyst with a proven track record of delivering high-quality insights through data analysis, visualization, and reporting. Holding a Bachelor's degree in Computer Applications, I specialize in using tools like Python, MySQL, Power BI, and MS Excel to uncover patterns and drive actionable business decisions.
